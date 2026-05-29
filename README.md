@@ -43,7 +43,6 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BlackOspreyDigital&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackOspreyDigital&layout=compact&theme=github_dark)
-
 ---
 
 ## 🚩 Featured Projects
