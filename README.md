@@ -9,12 +9,12 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 
 ## 🚀 About Me
 
-- 🎮 Vulkan game engine creator for my future indie releases
-- 🖌️ 3D artist (Blender, 3D printing, digital painting)
-- 💻 C++ programmer, always learning and growing
+- 🎮 Developing a custom Vulkan Game Engine
+- 🖌️ 3D artist (3D Modeling, 3D printing, Texture Artist)
+- 💻 C++ programmer ( I still suck )
 - 🌌 Sci-fi/cyberpunk worldbuilder and tech enthusiast
-- 🤝 I believe in collaboration—humans are capable of awesomeness!
-- 🧑‍💻 Programmer for 2 years and counting!
+- 🤝 Content for humans by humans
+- 🧑‍💻 Programming 2 Years
 
 ---
 
