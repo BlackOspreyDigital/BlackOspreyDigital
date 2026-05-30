@@ -1,6 +1,6 @@
 ![Banner](https://cdna.artstation.com/p/users/covers/006/543/564/default/dbd9c686308a1f5f99b08ff27924ec3b.jpg?1703249663)
 
-# 📦 Hi, I'm BlackOspreyDigital
+# 📦 Mr. YΔN 3D
 
 I'm a graphic designer specializing in 3D modeling, game creation, and futuristic tech.  
 Passionate about cyberpunk, sci-fi, and building the next generation of game engines.
