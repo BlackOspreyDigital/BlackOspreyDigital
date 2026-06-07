@@ -34,27 +34,22 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 ## 🧪 Currently Experimenting With
 
 - Custom real-time rendering pipelines in Vulkan
-- Procedural sci-fi environments & worldbuilding
-- 3D printable collectibles & prototypes
+- Procedural voxel generation
+- 3D printables & prototypes
 
 ---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BlackOspreyDigital&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackOspreyDigital&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=BlackOspreyDigital&layout=compact&theme=github_dark)
 
 ---
 
 ## 🚩 Featured Projects
 
-- **Custom Vulkan Game Engine** — Powering my upcoming original games (release soon!)
-- **3D Art Gallery** — Renders and models, sci-fi and cyberpunk inspired ([Portfolio](https://www.theospreylibrary.com))
-
----
-
-## 🖼️ 3D Art Showcase
-
+- **Crescendo Engine** — A custom built Vulkan Game Engine 
+- **The Osprey Library** — Renders and models, sci-fi and cyberpunk inspired ([Portfolio](https://www.theospreylibrary.com))
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/blackosprey)
 
 *View my latest 3D artwork and scene renders on [ArtStation](https://www.artstation.com/blackosprey)*
@@ -63,17 +58,8 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 
 ## 💡 Interests
 
-- Sci-fi, cyberpunk & futuristic technology
-- Web & direct hardware programming
-- Creative hacking, open source, and game dev
-
----
-
-## 🌐 Find Me Online
-
-[👾 Portfolio](https://www.theospreylibrary.com)  
-[🖼️ ArtStation](https://www.artstation.com/blackosprey)  
-*(All other socials linked on my website)*
+- Research and Development
+- Hardware
 
 ---
 
