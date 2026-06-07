@@ -2,9 +2,10 @@
 
 # 📦 Mr. YΔN 3D
 
-I'm a graphic designer specializing in 3D modeling, game creation, and futuristic tech.  
-Passionate about cyberpunk, sci-fi, and building the next generation of game engines.
+I like to make things.
+
 ---
+
 ## 🚀 About Me
 - 🎮 Developing a custom Vulkan Game Engine
 - 🖌️ 3D artist (3D Modeling, 3D printing, Texture Artist)
@@ -13,11 +14,9 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 - 🧑‍💻 Programming 2 Years
 ---
 ## 🧪 Currently Experimenting With
-
 - Custom real-time rendering pipelines in Vulkan
 - Procedural voxel generation
 - 3D printables & prototypes
-
 ---
 ## 🚩 Featured Projects
 - **Crescendo Engine** — A custom built Vulkan Game Engine 
