@@ -13,7 +13,6 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 - 🖌️ 3D artist (3D Modeling, 3D printing, Texture Artist)
 - 💻 C++ programmer ( I still suck )
 - 🌌 Sci-fi/cyberpunk worldbuilder and tech enthusiast
-- 🤝 Content for humans by humans
 - 🧑‍💻 Programming 2 Years
 
 ---
@@ -34,8 +33,8 @@ Passionate about cyberpunk, sci-fi, and building the next generation of game eng
 ## 🚩 Featured Projects
 
 - **Crescendo Engine** — A custom built Vulkan Game Engine 
-- **The Osprey Library** — Hub for Crescendo 
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/blackosprey)
+- **The Osprey Library** — Hub for Crescendo (https://www.theospreylibrary.com)
+
 
 *View my latest 3D artwork and scene renders on [ArtStation](https://www.artstation.com/blackosprey)*
 
